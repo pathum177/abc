@@ -146,6 +146,23 @@
 <!-- 🔥 Hero Header with Gradient Background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=QUEEN-JUSMY%20MD%20V1&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
 
+
+
+
+
+
+
+<!-- Hero Header with Gradient Background -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:FF0000&height=200&section=header&text=QUEEN-JUSMY%20MD%20V1&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+
+# 🎀 QUEEN JUSMY OFFICIAL 🎀
+
+
+
+
+
+
+
 <h1 align="center">❤️ Welcome to QUEEN JUSMY MD V1 ❤️</h1>
 <p align="center">Next-Gen WhatsApp Bot powered by <b>NOVA-X MD</b></p>
 
