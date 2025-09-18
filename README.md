@@ -82,3 +82,50 @@
 </div>
 
 </div>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QUEEN JUSMY MD</title>
+  <style>
+    body {
+      background: #000;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    h1 {
+      font-size: 60px;
+      font-weight: bold;
+      background: linear-gradient(90deg, #ff0000, #ff6600, #ff0000);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      animation: glow 2s infinite linear, moveGradient 4s infinite linear;
+    }
+
+    @keyframes glow {
+      0%   { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff6600, 0 0 30px #ff3300; }
+      50%  { text-shadow: 0 0 20px #ff6600, 0 0 30px #ff0000, 0 0 40px #ff6600; }
+      100% { text-shadow: 0 0 10px #ff0000, 0 0 20px #ff6600, 0 0 30px #ff3300; }
+    }
+
+    @keyframes moveGradient {
+      0%   { background-position: 0% 50%; }
+      50%  { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+  </style>
+</head>
+<body>
+  <h1>QUEEN JUSMY MD V1</h1>
+</body>
+</html>
+
