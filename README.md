@@ -130,3 +130,15 @@
 </html>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=QUEEN%20JUSMY%20MD%20V1&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+
+
+<!-- 🔥 Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=header&text=QUEEN%20JUSMY%20MD%20V1&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Next-Gen%20WhatsApp%20Bot&descAlignY=55&descSize=22" />
+
+<!-- ✨ Your Content Here -->
+<h1 align="center">Welcome to QUEEN JUSMY MD V1 🚀</h1>
+<p align="center">Next-Gen WhatsApp Bot powered by Nova-X MD</p>
+
+<!-- 🔥 Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=200&section=footer" />
+
